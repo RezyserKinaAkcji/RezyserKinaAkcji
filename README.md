@@ -12,4 +12,5 @@ I made some games using html/css/js on browser like tic tac toe, or minesweeper 
 C++ I used mainly for Arduino and C# for Unity. </br>
 
 </br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Michal-Pilarski)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adriantwarog)](https://github.com/anuraghazra/github-readme-stats)
