@@ -4,6 +4,7 @@ List of programming languages I have experience with:
 * CSS
 * JavaScript
 * Python
+* PHP
 * SQL
 * C++ / C#
 
