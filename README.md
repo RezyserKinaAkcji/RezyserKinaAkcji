@@ -12,6 +12,7 @@ I started programming a few years ago. This youtube channels helps me a lot: Tw√
 I like to do bots with python, for example I did Teamfight Tactics bot to start matches and leaving them in time (used pyautogui module), bot to sending email if item in shop is available (used selenium)</br>
 Actually I'm making small scripts from https://inventwithpython.com/bigbookpython/ this book <br>
 I made some games using html/css/js on browser like tic tac toe, or minesweeper </br>
+PHP/Laravel - https://www.youtube.com/watch?v=MYyJ4PuL4pY
 C++ I used mainly for Arduino and C# for Unity. </br>
 
 </br>
