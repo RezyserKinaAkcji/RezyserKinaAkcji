@@ -18,5 +18,5 @@
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=michal-pilarski&show_icons=true&theme=radical" alt="Anurag's GitHub stats" height="200"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=michal-pilarski&layout=compact" alt="Top Langs" height="200"/>
+  <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=michal-pilarski&layout=compact" alt="Top Langs" height="200"/>-->
 </p>
