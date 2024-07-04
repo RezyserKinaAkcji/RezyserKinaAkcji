@@ -1,7 +1,7 @@
 <h1>Hi there, </h1> 
 <p align="center">
   I am third year student at ETI (Technical and IT Education).<br>
-  Mainly focused on web development, but I also like doing things in cryptocurrency (Internet Computer, Solidity)<br>
+  Mainly focused on web development
 </p>
 
 ### Known languages and technologies
